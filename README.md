@@ -42,8 +42,10 @@ TTS 建立在 Tortoise 的基礎上，進行了重要的模型更改，使跨語
 
 [CH-dr-xtts_v1.webm](https://github.com/bensonbs/tts_research/assets/120996184/e6dff7d4-b47e-42a1-b570-9eeef6e91e53)
 
-### JS
 [dr_2.webm](https://github.com/bensonbs/tts_research/assets/120996184/5d29f305-d826-4534-8081-033c9405e196)
+
+### JS
+
 #### 錄製樣本
 
   
